@@ -1,0 +1,319 @@
+{
+  "camisetas": [
+    {
+      "title": "Skam Girls Squad T-shirt by belushop",
+      "id": 201,
+      "price": 17.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 1,
+      "image": "https://srv.latostadora.com/designall.dll/girls_squad_skam_t-shirt--i:1356232785736013562397;k:43547e74abcb876027b759f9baedc3ea;b:f8f8f8;s:M_L7;f:f.jpg",
+      "url": "https://www.tostadora.com/belushop/girls_squad_skam_t-shirt/2785736"
+    },
+    {
+      "title": "Love wins black T-shirt",
+      "id": 202,
+      "price": 18.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 5,
+      "image": "https://srv.latostadora.com/designall.dll/love_wins_black_t-shirt--i:13562327859170135623201709261;k:04fb419147882464f7661c6f8aff07dc;b:f8f8f8;s:H_A1;f:f.jpg",
+      "url": "https://www.tostadora.com/belushop/love_wins_black/2785917"
+    },
+    {
+      "title": "Real men are feminists",
+      "id": 203,
+      "price": 17.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 3,
+      "image": "https://srv.latostadora.com/designall.dll/real_men_are_feminists_t-shirt--i:1356232785772013562397;k:9714203f92904bc369d3efe3fed7d073;b:f8f8f8;s:M_L7;f:f.jpg",
+      "url": "https://www.tostadora.com/belushop/real_men_are_feminists_t-shirt/2785772"
+    },
+    {
+      "title": "Act now or swim later",
+      "id": 204,
+      "price": 21,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 4,
+      "thumbnail": "https://vangogh.teespring.com/v3/image/rwCyaasZzAAX_kocNODi8U_OsBE/480/560.jpg",
+      "image": "https://vangogh.teespring.com/v3/image/rwCyaasZzAAX_kocNODi8U_OsBE/480/560.jpg",
+      "url": "https://teespring.com/act-now-or-swim-later-tshirt?cid=100047&page=1&pid=375&tsmac=store&tsmic=the-belu-shop"
+    },
+    {
+      "title": "Skam Croana Cris and Joana",
+      "id": 205,
+      "price": 17.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 1,
+      "image": "https://srv.latostadora.com/designall.dll/croana_cris_and_joana_skam_t-shirt--i:1356232785709013562397;k:08f4eb7b21f3c7fc8a1fe3152f8d24b9;b:f8f8f8;s:M_L7;f:f.jpg",
+      "url": "https://www.tostadora.com/belushop/croana_cris_and_joana_skam_t-shirt/2785709"
+    },
+    {
+      "title": "Pansexual",
+      "id": 206,
+      "price": 18.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 5,
+      "image": "https://srv.latostadora.com/designall.dll/pansexual_t-shirt--i:13562327884170135623201709268;k:a97cc9055977f8e30d9c50a8630fa970;b:f8f8f8;s:H_A8;f:f.jpg",
+      "url": "https://www.tostadora.com/belushop/pansexual/2788417"
+    },
+    {
+      "title": "Social distancing expert",
+      "id": 207,
+      "price": 18.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 0,
+      "image": "https://srv.latostadora.com/designall.dll/social_distancing_expert_t-shirt--i:135623278842301356232017092628;k:374ca9450378a11c74b561d52b0b1d1e;b:f8f8f8;s:H_A28;f:f.jpg",
+      "url": "https://www.tostadora.com/belushop/social_distancing_expert/2788423"
+    },
+    {
+      "title": "People over profit",
+      "id": 208,
+      "price": 18.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 4,
+      "image": "https://srv.latostadora.com/designall.dll/men_short_sleeve_denim_high_quality_t-shirt--i:135623279071501356232017092621;k:dd9f01c51b0d018bbfdebfc3382d198c;b:f8f8f8;s:H_A21;f:f.jpg",
+      "url": "https://www.tostadora.com/belushop/men_short_sleeve_denim_high_quality/2790715"
+    },
+    {
+      "title": "Proud - Transgender T-Shirt",
+      "id": 209,
+      "price": 18.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 5,
+      "image": "https://srv.latostadora.com/designall.dll/camiseta_trans_proud--i:13562328429560135623201709262;k:2d433479e18ad727b31bc236034cfde6;b:f8f8f8;s:H_A2;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/trans_proud/2842956"
+    },
+    {
+      "title": "Bisexual T-Shirt",
+      "id": 210,
+      "price": 17.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 5,
+      "image": "https://srv.latostadora.com/designall.dll/camiseta_corazones_bi--i:1356232842871013562397;k:dfbdfc9364439db9cf0701ff1928c1e9;b:f8f8f8;s:M_L7;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/corazones_bi/2842871"
+    },
+    {
+      "title": "Te quiero mazo",
+      "id": 211,
+      "price": 17.90,
+      "stock": 10,
+      "description": "<p>Regular fit t-shirt.</p><p>Organic dyes. Special, incredibly soft fabric.</p><p>100x100 pre-shrunk cotton.</p>",
+      "category": 0,
+      "image": "https://srv.latostadora.com/designall.dll/i_love_you_malle_t-shirt--i:1356232784751013562397;k:0c784019fcbe6899653fa76d06075eae;b:f8f8f8;s:M_L7;f:f.jpg",
+      "url": "https://www.tostadora.com/belushop/i_love_you_malle_t-shirt/2784751"
+    }
+  ],
+  "tazas": [
+    {
+      "title": "Words can't express how much you bean to me",
+      "id": 101,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 0,
+      "image": "https://i.etsystatic.com/22786990/r/il/10f8da/2251887274/il_1588xN.2251887274_eyhf.jpg",
+      "url": "https://www.redbubble.com/i/mug/Words-can-t-espresso-how-much-you-bean-to-me-Cute-mug-by-belushop/47988579.9Q0AD"
+    },
+    {
+      "title": "I'm your biggest flan",
+      "id": 102,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 0,
+      "image": "https://i.etsystatic.com/22786990/r/il/95d35f/2299492087/il_1588xN.2299492087_c9yt.jpg",
+      "url": "https://www.redbubble.com/i/mug/I-m-your-biggest-flan-by-belushop/47992671.W3OIY"
+    },
+    {
+      "title": "Snappy birthday",
+      "id": 103,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 2,
+      "image": "https://i.etsystatic.com/22786990/r/il/88775b/2251894174/il_1588xN.2251894174_dydo.jpg",
+      "url": "https://www.redbubble.com/i/mug/Snappy-birthday-dad-Gift-for-dad-Birthday-mug-by-belushop/48080613.9Q0AD"
+    },
+    {
+      "title": "Its my vagina",
+      "id": 104,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 1,
+      "image": "https://i.etsystatic.com/22786990/r/il/569aa5/2251896796/il_1588xN.2251896796_l295.jpg",
+      "url": "https://www.redbubble.com/i/mug/It-s-my-vagina-Ruby-Sex-Education-by-belushop/47993030.9Q0AD"
+    },
+    {
+      "title": "Have an eggcellent birthday",
+      "id": 105,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 2,
+      "image": "https://i.etsystatic.com/22786990/r/il/d1eb7a/2251798164/il_1588xN.2251798164_hfk2.jpg",
+      "ur,l": "https://teespring.com/have-an-eggcellent-birthday?tsmac=store&tsmic=the-belu-shop&pid=659&cid=102910"
+    },
+    {
+      "title": "The future is female",
+      "id": 106,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 3,
+      "image": "https://i.etsystatic.com/22786990/r/il/fbf536/2251858774/il_1588xN.2251858774_vxay.jpg",
+      "url": "https://www.etsy.com/uk/listing/792757279/feminist-mug-the-future-is-female?ref=shop_home_active_2"
+    },
+    {
+      "title": "Atypical Penguins Mug",
+      "id": 107,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 1,
+      "image": "https://i.etsystatic.com/22786990/r/il/449f22/2299310473/il_1588xN.2299310473_8l4g.jpg",
+      "url": "https://www.etsy.com/uk/listing/778849640/atypical-penguins-mug-adelie-chinstrap?ref=shop_home_active_4"
+    },
+    {
+      "title": "Theres no planet B",
+      "id": 108,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 4,
+      "image": "https://i.etsystatic.com/22786990/r/il/138cc4/2251759042/il_1588xN.2251759042_cest.jpg",
+      "url": "https://www.etsy.com/uk/listing/778856300/mug-theres-no-planet-b?ref=shop_home_active_10"
+    },
+    {
+      "title": "You're berry special to me",
+      "id": 109,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 0,
+      "image": "https://i.etsystatic.com/22786990/r/il/d8fcb4/2251888770/il_1588xN.2251888770_cz0o.jpg",
+      "url": "https://www.redbubble.com/i/mug/You-re-berry-special-to-me-by-belushop/47991794.9Q0AD"
+    },
+    {
+      "title": "I do not wish women to have power over men",
+      "id": 110,
+      "price": 10.99,
+      "stock": 10,
+      "description": "<p>Dishwasher and microwave safe.</p><p>Height 9cm, diameter 8cm.</p><p>Capacity 10oz.</p>",
+      "category": 3,
+      "image": "https://i.etsystatic.com/22786990/r/il/096cae/2251938420/il_1588xN.2251938420_g7pm.jpg",
+      "url": "https://www.etsy.com/uk/listing/778894166/feminist-mug-mary-wollstonecraft-quote-i?ref=shop_home_active_5"
+    }
+  ],
+  "bolsas": [
+    {
+      "title": "Real men are feminists",
+      "id": 301,
+      "price": 14.80,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 3,
+      "image": "https://vangogh.teespring.com/v3/image/1Vlohu9RMYlpmYx4hQkGTb0tjpg/480/560.jpg",
+      "url": "https://teespring.com/real-men-are-feminists-tote?cid=101303&page=1&pid=442&sid=front&tsmac=store&tsmic=the-belu-shop"
+    },
+    {
+      "title": "Have an eggcellent birthday",
+      "id": 302,
+      "price": 14.80,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 2,
+      "image": "https://srv.latostadora.com/designall.dll/tote_bags_natural_color--i:13562327847270135623211;k:e08c19f08ff706bd9a35bed618b5b9ee;b:f8f8f8;s:B_D1;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/have_an_eggcellent_birthday_bag/2784727"
+    },
+    {
+      "title": "Skam Squad",
+      "id": 303,
+      "price": 14.80,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 1,
+      "image": "https://srv.latostadora.com/designall.dll/skam_girls_squad_bag--i:13562327778670135623211;k:881b442260988f1f1ab6fa53bcf7d4ae;b:f8f8f8;s:B_D1;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/skam_girls_squad_bag/2777867"
+    },
+    {
+      "title": "Te quiero mazo",
+      "id": 304,
+      "price": 14.80,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 0,
+      "image": "https://srv.latostadora.com/designall.dll/i_love_you_mallet_bag--i:13562327857480135623211;k:8d2b5e99dd3ae524c2fc7dad6c5d621e;b:f8f8f8;s:B_D1;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/i_love_you_mallet_bag/2785748"
+    },
+    {
+      "title": "Estas como un tren",
+      "id": 305,
+      "price": 14.80,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 0,
+      "image": "https://srv.latostadora.com/designall.dll/bolsa_estas_como_un_tren--i:13562327919850135623211;k:3e1da24bcdea5a9e98cde881e11d0e36;b:f8f8f8;s:B_D1;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/estas_como_un_tren/2791985"
+    },
+    {
+      "title": "Croana shipper",
+      "id": 306,
+      "price": 14.80,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 1,
+      "image": "https://srv.latostadora.com/designall.dll/croana_cris_and_joana_skam_bag--i:13562327857120135623211;k:9026e031b70cde23a4d83bab82b06c2e;b:f8f8f8;s:B_D1;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/croana_cris_and_joana_skam_bag/2785712"
+    },
+    {
+      "title": "The future is female",
+      "id": 307,
+      "price": 14.80,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 3,
+      "image": "https://srv.latostadora.com/designall.dll/the_future_is_female_bag--i:13562327847300135623211;k:03480d3ae80dda2813abde5dcfb22e0f;b:f8f8f8;s:B_D1;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/the_future_is_female_bag/2784730"
+    },
+    {
+      "title": "Mary Wollstonecraft quote",
+      "id": 308,
+      "price": 14.80,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 3,
+      "image": "https://srv.latostadora.com/designall.dll/mary_wollstonecraft_bag--i:13562327857350135623211;k:ef3219120ab58b9207fdfeb9d3e33544;b:f8f8f8;s:B_D1;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/mary_wollstonecraft_bag/2785735"
+    },
+    {
+      "title": "Mother's day bag",
+      "id": 309,
+      "price": 14.80,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 0,
+      "image": "https://srv.latostadora.com/designall.dll/mother39s_day_bag--i:13562327778570135623211;k:f3cab2465b2f56f8e189c5ded5000ab2;b:f8f8f8;s:B_D1;f:f.jpg",
+      "url": "https://www.latostadora.com/belushop/mothers_day_bag/2777857"
+    },
+    {
+      "title": "Elite",
+      "id": 310,
+      "price": 14.52,
+      "stock": 10,
+      "description": "<p>Tote bag.</p><p>80x80 recycled cotton, 20 recycled polyester.</p><p>Dimensions: 39 x 37 cm.</p>",
+      "category": 1,
+      "image": "https://ih1.redbubble.net/image.1216820164.3742/tb,840x840,small-c,1,198,600,600-bg,f8f8f8.jpg",
+      "url": "https://www.redbubble.com/i/tote-bag/Elite-Carla-Nadia-Rebeka-and-Lu-Tote-bag-by-belushop/48263742.PJQVX"
+    }
+  ]
+}
